@@ -1,3 +1,5 @@
+// Copyright© by Fin
+
 #include <iostream>
 #include <string>
 using namespace std;
