@@ -5,9 +5,7 @@ using namespace std;
 int main(){
 
     string name;
-    cout << "Wie lautet dein Name: ";
-
+    cout << "Wie heißt'e?: ";
     cin >> name;
-
-    cout << "Hallo " << name << " wat geht";
+    cout << "Moin " << name << " wat geht";
 }
